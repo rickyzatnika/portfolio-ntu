@@ -43,7 +43,7 @@ const Photo = () => {
             </button>
           </div>
         </div>
-        <div className="col-span-9">
+        <div className="col-span-9 mb-6">
           {active === "prewed" && <Prewed />}
           {active === "product" && <Product />}
           {active === "other" && <Other />}

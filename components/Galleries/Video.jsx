@@ -73,7 +73,7 @@ const Video = () => {
               />
               <div
                 onClick={() => handlePlayPause(index)}
-                className="absolute flex items-center justify-center top-0 left-0 right-0 bottom-0 w-full min-h-full "
+                className="absolute hidden lg:flex items-center justify-center top-0 left-0 right-0 bottom-0 w-full min-h-full "
               >
                 {videoPlaying[index] ? (
                   ""
