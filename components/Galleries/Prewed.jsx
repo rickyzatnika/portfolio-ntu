@@ -23,12 +23,12 @@ const Prewed = () => {
           isMobile
           elementClassNames="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 pt-10 px-4 lg:px-10 gap-3 group "
         >
-          <Link href="/image/prewed/wed-1.jpg">
+          <Link href="/image/prewed/wed-1.JPG">
             <div className="overflow-hidden">
               <Image
                 className="img-responsive rounded hover:scale-110 transition-all duration-300 ease-linear"
                 alt=""
-                src="/image/prewed/wed-1.jpg"
+                src="/image/prewed/wed-1.JPG"
                 width={450}
                 height={650}
                 objectFit="cover"
@@ -38,11 +38,11 @@ const Prewed = () => {
               />
             </div>
           </Link>
-          <Link href="/image/prewed/wed-2.jpg">
+          <Link href="/image/prewed/wed-2.JPG">
             <div className="overflow-hidden group">
               <Image
                 className="img-responsive rounded hover:scale-110 transition-all duration-300 ease-linear"
-                src="/image/prewed/wed-2.jpg"
+                src="/image/prewed/wed-2.JPG"
                 alt=""
                 width={450}
                 height={650}
@@ -53,11 +53,11 @@ const Prewed = () => {
               />
             </div>
           </Link>
-          <Link href="/image/prewed/wed-3.jpg">
+          <Link href="/image/prewed/wed-3.JPG">
             <div className="overflow-hidden group">
               <Image
                 className="img-responsive rounded hover:scale-110 transition-all duration-300 ease-linear"
-                src="/image/prewed/wed-3.jpg"
+                src="/image/prewed/wed-3.JPG"
                 alt=""
                 width={450}
                 height={650}
@@ -83,11 +83,11 @@ const Prewed = () => {
               />
             </div>
           </Link>
-          <Link href="/image/prewed/wed-5.jpg">
+          <Link href="/image/prewed/wed-5.JPG">
             <div className="overflow-hidden group">
               <Image
                 className="img-responsive rounded hover:scale-110 transition-all duration-300 ease-linear"
-                src="/image/prewed/wed-5.jpg"
+                src="/image/prewed/wed-5.JPG"
                 alt=""
                 width={450}
                 height={650}
@@ -98,11 +98,11 @@ const Prewed = () => {
               />
             </div>
           </Link>
-          <Link href="/image/prewed/wed-6.jpg">
+          <Link href="/image/prewed/wed-6.JPG">
             <div className="overflow-hidden group">
               <Image
                 className="img-responsive rounded hover:scale-110 transition-all duration-300 ease-linear"
-                src="/image/prewed/wed-6.jpg"
+                src="/image/prewed/wed-6.JPG"
                 alt=""
                 width={450}
                 height={650}
@@ -113,11 +113,11 @@ const Prewed = () => {
               />
             </div>
           </Link>
-          <Link href="/image/prewed/wed-7.jpg">
+          <Link href="/image/prewed/wed-7.JPG">
             <div className="overflow-hidden group">
               <Image
                 className="img-responsive rounded hover:scale-110 transition-all duration-300 ease-linear"
-                src="/image/prewed/wed-7.jpg"
+                src="/image/prewed/wed-7.JPG"
                 alt=""
                 width={450}
                 height={650}
@@ -128,11 +128,11 @@ const Prewed = () => {
               />
             </div>
           </Link>
-          <Link href="/image/prewed/wed-8.jpg">
+          <Link href="/image/prewed/wed-8.JPG">
             <div className="overflow-hidden group">
               <Image
                 className="img-responsive rounded hover:scale-110 transition-all duration-300 ease-linear"
-                src="/image/prewed/wed-8.jpg"
+                src="/image/prewed/wed-8.JPG"
                 alt=""
                 width={450}
                 height={650}
@@ -143,11 +143,11 @@ const Prewed = () => {
               />
             </div>
           </Link>
-          <Link href="/image/prewed/wed-9.jpg">
+          <Link href="/image/prewed/wed-9.JPG">
             <div className="overflow-hidden group">
               <Image
                 className="img-responsive rounded hover:scale-110 transition-all duration-300 ease-linear"
-                src="/image/prewed/wed-9.jpg"
+                src="/image/prewed/wed-9.JPG"
                 alt=""
                 width={450}
                 height={650}
