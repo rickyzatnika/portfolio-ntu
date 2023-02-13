@@ -21,18 +21,18 @@ const MobileNav = ({ open, setOpen }) => {
         >
           <ul className="uppercase   w-fit flex flex-col justify-center space-y-4">
             <li>
-              <Link href="/" passHref>
+              <Link href="/" passHref className="text-zinc-300">
                 Home
               </Link>
             </li>
             <li>
-              <Link href="/blog" passHref>
+              <Link href="/gallery" passHref className="text-zinc-300">
                 Gallery
               </Link>
             </li>
 
             <li>
-              <Link href="/contact" passHref>
+              <Link href="/contact" passHref className="text-zinc-300">
                 Contact
               </Link>
             </li>
